@@ -28,3 +28,5 @@ fs.createReadStream('kepler_data.csv')
   console.log(`${habitablePlanets.length} habitable planets are found`);
   console.log("done");
 });
+
+// aldsfjlas
